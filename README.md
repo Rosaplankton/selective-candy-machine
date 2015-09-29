@@ -1,1 +1,1 @@
-# selective-candy-machine
+# selective candy machine
