@@ -1,4 +1,11 @@
 # selective candy machine
+This candy machine is different.
+Not everyone will get a sweet.
+Instead of a coin slot there are 2 infrared sensors and a little bit of code. So the machine decides whom to offer something.
+The human input is passive. But once you know which parameters are important, the input can become active. Playfully people will lern, that candies will be given to children and denied to adults. 
+Since everyone of us should preserve its inner child, the machine can be outsmarted :)
+Just put yourselve to the same eye level as a child...
+
 
 ## You'll need
 - Arduino Uno
