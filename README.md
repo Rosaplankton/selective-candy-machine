@@ -3,6 +3,16 @@
 
 ![](images/fritzing_sketch.png)
 
+##THE MACHINE
+![](images/candy_machine.png)
+
+![](images/sensor.png)
+
+
+
+
+
+
 ###License
 
 The MIT License (MIT)
