@@ -1,4 +1,12 @@
 # selective candy machine
+
+## You'll need
+- Arduino Uno
+- 2 Sharp GP2 Y0A41 SK0F distance sensor 30 cm
+- 12V power supply
+- stepper motor
+- Schmalzhaus easy driver
+- a lot of Candy
 ##Fritzing
 
 ![](images/fritzing_sketch.png)
