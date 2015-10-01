@@ -1,4 +1,7 @@
 # selective candy machine
+##Fritzing
+
+![](images/fritzing_sketch.png)
 
 ###License
 
