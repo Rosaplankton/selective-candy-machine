@@ -8,7 +8,6 @@
 - Schmalzhaus easy driver
 - a lot of Candy
 
-
 ##Fritzing
 
 ![](images/fritzing_sketch.png)
