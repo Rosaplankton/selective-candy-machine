@@ -6,6 +6,8 @@ The human input is passive. But once you know which parameters are important, th
 Since everyone of us should preserve its inner child, the machine can be outsmarted :)
 Just put yourselve to the same eye level as a child...
 
+####[Candy Video on Vimeo](https://vimeo.com/143266239)
+
 
 ## You'll need
 - Arduino Uno
