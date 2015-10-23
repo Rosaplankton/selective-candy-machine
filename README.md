@@ -6,8 +6,11 @@ Instead of a coin slot there are 2 infrared sensors and a little bit of code. So
 The human input is passive. But once you know which parameters are important, the input can become active. Playfully people will lern, that candies will be given to children and denied to adults. 
 Since everyone of us should preserve its inner child, the machine can be outsmarted :)
 Just put yourselve to the same eye level as a child...
-####[Prototyp](https://vimeo.com/143316854)
-####[Candy movie](https://vimeo.com/143266239)
+####Prototyp
+[![Prototyp](images/prototyp-thumb.png)](https://vimeo.com/143316854)
+####Candy movie
+[![Candy movie](images/io-candymachine-thumb.png)](https://vimeo.com/143266239)
+
 First of all, I wanted to use a camera to have a variety of parameters to work with. If I had had more time an more coding skills ;) I would have used colordetection or object recognition to realize my project.
 I tried it, but it didn't worked out. So I decided to employ infrared sensors. These sensors are detecting in to a distance of 30 cm.
 Once the lower sensor is triggered, the motor gets a signal to turn 180° and the machine will dispense a candy.
@@ -200,6 +203,8 @@ void rotate(int steps, float speed, int dir, int DIR_PIN, int STEP_PIN) {
 
 ```
 
+#Thanks
+I want to thank [Fabian Morón Zirfas](https://github.com/fabiantheblind)so much for his support, patience and very helpful guidance. I really appreciated the working atmosphere :D particularly when I got stuck, my  lovely fellow students [Jonas](https://github.com/topada), [Christian](https://github.com/Wetterprophet), [Kiri](https://github.com/KiriMiau) and [Joseph](https://github.com/Coderwelsch) where always ready to help. So I want to thank you all for the great semester!!!!
 
 
 
