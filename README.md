@@ -1,4 +1,5 @@
 # selective candy machine
+![](images/candymachine.png)
 This candy machine is different.
 Not everyone will get a sweet.
 Instead of a coin slot there are 2 infrared sensors and a little bit of code. So the machine decides whom to offer something.
@@ -7,6 +8,13 @@ Since everyone of us should preserve its inner child, the machine can be outsmar
 Just put yourselve to the same eye level as a child...
 ####[Prototyp](https://vimeo.com/143316854)
 ####[Candy movie](https://vimeo.com/143266239)
+First of all, I wanted to use a camera to have a variety of parameters to work with. If I had had more time an more coding skills ;) I would have used colordetection or object recognition to realize my project.
+I tried it, but it didn't worked out. So I decided to employ infrared sensors. These sensors are detecting in to a distance of 30 cm.
+Once the lower sensor is triggered, the motor gets a signal to turn 180° and the machine will dispense a candy.
+If a tall person is in front of the machine, both sensors will be triggered. The motor won't turn and no candy will be provided.
+![deal with the mess of wires](images/grober_aufbau.png)
+![](images/kabelchaos.png)
+![the back](images/innenleben.png)
 
 
 ## You'll need
